@@ -1,0 +1,6 @@
+name = "medium-app"
+compatibility_date = "2023-12-01"
+
+[vars]
+DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNWY4YjFiMDgtZGUzZS00ZWY1LTgxMDUtMzhiYzhjYTAzMDk1IiwidGVuYW50X2lkIjoiMjg0NWY2MGYyM2ZlMTY4Y2MyY2I1NmMyZDM4MmE0ZTA0ZmRmOTk4MjNlOGU0NTFkOGYxNGM2NjMxMjdhOGIxMSIsImludGVybmFsX3NlY3JldCI6IjM3ZTJhMzA5LWI3OGEtNDEwNi05N2I2LWVhZjA4YjJmZDg2YyJ9.AM5qIryCEJMmpBhAwshJGgbS2dqcO_r82mmFr63_ot4"
+JWT_SECRET = "asdasdasd"
